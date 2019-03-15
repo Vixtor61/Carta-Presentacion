@@ -34,7 +34,7 @@
                 android:textColor="#000"
                 android:textSize="32dp"
                 android:layout_weight="1"
-                android:text="Vicotr Chicas"/>
+                android:text="@string/user_name"/>
 
             <LinearLayout
                 android:layout_width="fill_parent"
@@ -52,7 +52,7 @@
                     android:layout_weight="1"
                     android:layout_gravity="center"
                     android:layout_height="wrap_content"
-                    android:text="@Vixtor61"/>
+                    android:text="@string/user_nickname"/>
                 <ImageView
                     android:layout_width="0dp"
                     android:layout_gravity="center"
@@ -65,7 +65,7 @@
                     android:layout_weight="1"
                     android:layout_gravity="center"
                     android:layout_height="wrap_content"
-                    android:text="@Vixotr61"/>
+                    android:text="@string/user_nickname"/>
 
             </LinearLayout>
          <LinearLayout
@@ -87,7 +87,7 @@
                  android:layout_weight="1"
                  android:layout_gravity="center"
                  android:layout_height="wrap_content"
-                 android:text="@Vixtor61"/>
+                 android:text="@string/user_nickname"/>
 
          </LinearLayout>
         </LinearLayout>
